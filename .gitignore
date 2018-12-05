@@ -1,0 +1,8 @@
+#exclude
+*.docx
+*.zip
+*.pptx
+/Lectures
+/Textbooks
+/Exams
+/Tutorials
