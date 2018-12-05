@@ -2,6 +2,8 @@
 *.docx
 *.zip
 *.pptx
+*.htm
+*.html
 /Lectures
 /Textbooks
 /Exams
